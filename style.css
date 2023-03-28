@@ -323,7 +323,7 @@ a{
 }
 @keyframes comunicacion {
     0%{width: 0%;}
-    100%{width: 80%;}
+    100%{width: 65%;}
 }
 
 .skills .skill .trabajo{
@@ -341,7 +341,7 @@ a{
 }
 @keyframes creatividad {
     0%{width: 0%;}
-    100%{width: 99%;}
+    100%{width: 94%;}
 }
 
 .skills .skill .dedicacion{
@@ -350,7 +350,7 @@ a{
 }
 @keyframes dedicacion {
     0%{width: 0%;}
-    100%{width: 65%;}
+    100%{width: 80%;}
 }
 
 .skills .skill .proyect{
@@ -359,7 +359,7 @@ a{
 }
 @keyframes proyect {
     0%{width: 0%;}
-    100%{width: 94%;}
+    100%{width: 99%;}
 }
 /* SECCION CURRICULUM */
 .curriculum{
