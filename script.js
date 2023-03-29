@@ -26,7 +26,7 @@ function efectoHabilidades(){
         habilidades[2].classList.add("photoshop");
         habilidades[3].classList.add("wordpress");
         habilidades[4].classList.add("comunicacion");
-        habilidades[5].classList.add("creativity");
+        habilidades[5].classList.add("creatividad");
         habilidades[6].classList.add("dedicacion");
         habilidades[7].classList.add("proyect");
     }
