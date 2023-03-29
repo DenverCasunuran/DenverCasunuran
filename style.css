@@ -296,7 +296,7 @@ a{
 }
 @keyframes photoshop {
     0%{width: 0%;}
-    100%{width: 95%;}
+    100%{width: 90%;}
 }
 
 .skills .skill .wordpress{
@@ -308,14 +308,7 @@ a{
     100%{width: 81%;}
 }
 
-.skills .skill .drupal{
-    width: 0%;
-    animation: 2s drupal forwards;
-}
-@keyframes drupal {
-    0%{width: 0%;}
-    100%{width: 55%;}
-}
+
 
 .skills .skill .comunicacion{
     width: 0%;
@@ -328,9 +321,9 @@ a{
 
 .skills .skill .creatividad{
     width: 0%;
-    animation: 2s creatividad forwards;
+    animation: 2s creativity forwards;
 }
-@keyframes creatividad {
+@keyframes creativity {
     0%{width: 0%;}
     100%{width: 94%;}
 }
