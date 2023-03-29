@@ -321,11 +321,11 @@ a{
 
 .skills .skill .creatividad{
     width: 0%;
-    animation: 2s creativity forwards;
+    animation: 2s creatividad forwards;
 }
-@keyframes creativity {
+@keyframes creatividad {
     0%{width: 0%;}
-    100%{width: 94%;}
+    100%{width: 80%;}
 }
 
 .skills .skill .dedicacion{
